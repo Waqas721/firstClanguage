@@ -1,0 +1,25 @@
+Add 5
+Print
+AddImmediate 10
+Add 15
+MoveForward 1
+Add 1 8
+Print
+DeleteImmediate
+Print
+MoveBackward 2
+UpdateImmediate 12
+AddImmediate 20
+Delete 2
+Shift 1
+AddImmediate 25
+MoveForward 1
+Update 1 18
+Undo
+Print
+Delete
+MoveForward 2
+Add 98
+Undo
+Undo
+Print

@@ -1,0 +1,35 @@
+Add 10
+AddImmediate 5
+AddImmediate 15
+Add 20
+MoveForward 1
+AddImmediate 25
+AddImmediate 35
+Add 30
+MoveForward 2
+Print
+AddImmediate 45
+AddImmediate 55
+Add 50
+MoveBackward 2
+Print
+MoveForward 3
+AddImmediate 65
+DeleteImmediate
+Add 70
+Print
+Add 2 60
+Update 0 40
+Delete
+MoveBackward 3
+AddImmediate 75
+Shift 1
+Print
+Undo
+Delete 3
+Print
+AddImmediate 80
+UpdateImmediate 90
+Print
+Undo
+Print
